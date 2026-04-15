@@ -1,5 +1,5 @@
 # HTML Portfolio Project
-Web Link: https://karanjthakur.github.io/html-portfolio/
+Web Link: (https://idris91101.github.io/Html/)
 
 A simple multi-page HTML portfolio website.
 
